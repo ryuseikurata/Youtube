@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Youtube/AppDelegate.swift"
+            timestampString = "551401224.3274029"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Youtube.AppDelegate.__deallocating_deinit"
+                  moduleName = "Youtube"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kurataryusei/Documents/Youtube/Youtube/AppDelegate.swift"
+                  timestampString = "549772156.7352"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Youtube.AppDelegate.__allocating_init() -&gt; Youtube.AppDelegate"
+                  moduleName = "Youtube"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kurataryusei/Documents/Youtube/Youtube/AppDelegate.swift"
+                  timestampString = "549772156.738575"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Youtube.AppDelegate.init() -&gt; Youtube.AppDelegate"
+                  moduleName = "Youtube"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kurataryusei/Documents/Youtube/Youtube/AppDelegate.swift"
+                  timestampString = "549772156.7413239"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Youtube"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kurataryusei/Documents/Youtube/Youtube/AppDelegate.swift"
+                  timestampString = "549772156.7433259"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
